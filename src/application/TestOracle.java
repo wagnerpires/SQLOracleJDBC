@@ -1,3 +1,8 @@
+/* Classe para conexão com banco de dados Oracle
+ * Data criação: 20/02/2019 - 16:43hs
+ * Data alteração: 24/02/2019
+ * Autor: Zulu
+ */
 /*
  * CONEXÃO JAVA COM ORACLE
  */
